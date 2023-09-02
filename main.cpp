@@ -1,5 +1,9 @@
 #include<iostream>
 
+void feature1(){
+    std::cout << "feature1" << std::endl;
+}
+
 int main(){
     int arr[] = {3,2,1,0};
     int size = sizeof(arr)/sizeof(arr[0]);
