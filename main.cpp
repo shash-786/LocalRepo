@@ -2,11 +2,8 @@
 
 void feature(){
     std::cout << "new feature" << std::endl;
-<<<<<<< HEAD
     std::cout << "Conflict Test" << std::endl; 
-=======
     std::cout << "New Conflict" << std::endl;
->>>>>>> feature
 }
 
 int main(){
