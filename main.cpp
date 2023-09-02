@@ -2,6 +2,7 @@
 
 void feature(){
     std::cout << "new feature" << std::endl;
+    std::cout << "Conflict Test" << std::endl; 
 }
 
 int main(){
